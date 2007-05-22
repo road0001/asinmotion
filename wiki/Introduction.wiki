@@ -1,4 +1,5 @@
 #labels Featured
+{{{
 import com.asinmotion.effects.*;
 import com.asinmotion.easing.*;
 
@@ -19,5 +20,5 @@ list.addEffect({target:box, scaleX:1.5})
 list.addEffect({target:box, x:300})
 list.addEffect({target:box, y:200})
 list.start();
-
+}}}
 
