@@ -1,0 +1,1 @@
+An animation library for actionscript 3. Contains a basic tweening class as well as the ability to sequence and execute tweens in parallel.
